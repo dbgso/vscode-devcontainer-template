@@ -1,0 +1,10 @@
+{
+    "name": "devcontainer",
+    "dockerComposeFile": "./docker-compose.yml",
+    "service": "main",
+    "settings": {
+    },
+    "extensions": [
+    ],
+    "workspaceFolder": "/data"
+}
