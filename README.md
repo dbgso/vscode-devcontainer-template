@@ -1,6 +1,6 @@
 # project template for visual studio code for development container
 
-## install extension
+## Usage
 
 ```bash
 # clone repository
